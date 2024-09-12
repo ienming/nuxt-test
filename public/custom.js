@@ -1,0 +1,1 @@
+console.log('custom JS only run in client');
